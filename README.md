@@ -12,7 +12,7 @@ The full instruction is available on TechNet: https://social.technet.microsoft.c
 
 # 3. Azure Cloud Services for Tello Drones: How to Config Tello by Azure Direct Methods
 The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54688.azure-cloud-services-for-tello-drones-how-to-config-tello-by-azure-direct-methods.aspx
-![image](https://github.com/shijiong/AzureCloudServices4TelloDrones/blob/main/3-RemoteConfig.png)
+![image](https://github.com/shijiong/AzureCloudServices4TelloDrones/blob/main/5-RemoteConfig.png)
 
 # 4. Azure Cloud Services for Tello Drones: How to Send Images to Azure Blob Storage
 The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54690.azure-cloud-services-for-tello-drones-how-to-send-images-to-azure-blob-storage.aspx
@@ -20,7 +20,7 @@ The full instruction is available on TechNet: https://social.technet.microsoft.c
 
 # 5. Azure Cloud Services for Tello Drones: How to Send Recorded Videos to Azure Blob Storage
 The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54693.azure-cloud-services-for-tello-drones-how-to-send-recorded-videos-to-azure-blob-storage.aspx
-![image](https://github.com/shijiong/AzureCloudServices4TelloDrones/blob/main/4.SendVideo.png)
+![image](https://github.com/shijiong/AzureCloudServices4TelloDrones/blob/main/6-SendVideo.png)
 
 # 6. Azure Cloud Services for Tello Drones: How to Analyze Images by Azure Computer Vision
 The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54691.azure-cloud-services-for-tello-drones-how-to-analyze-images-by-azure-computer-vision.aspx
